@@ -19,13 +19,13 @@ export default function Home() {
           </div>
           <p className='pt-1 font-karla text-neutral-Light-Gray text-[0.99rem]'>Full access for less than $1 a day</p>
          
-        <a href='/' className='mt-8 bg-primary-Bright-Yellow w-full py-3 rounded-md shadow-xl text-center hover:bg-[#cdee12] text-base text-white cursor-pointer mb-8 sm:mb-0'>Sign up</a>        
+        <a href='/' className='mt-6 bg-primary-Bright-Yellow w-full py-3 rounded-md shadow-xl text-center hover:bg-[#cdee12] text-base text-white cursor-pointer mb-4 sm:mb-4'>Sign up</a>        
         </section>
       <section className='flex flex-col pt-8 pl-9 pb-2 pr-8 justify-start bg-[#41bbb9] rounded-b-lg sm:rounded-b-none sm:rounded-br-lg'>
         <h5 className='text-neutral-Light-Gray font-medium font-karla'>
         Why us
         </h5>
-        <p className='text-slate-300 font-karla pt-2 sm:max-w-[12.46rem] text-[0.99rem] mb-2 sm:mb-0'>Tutorials by industry experts Peer & expert code review Coding exercises Access to our GitHub repos Community forum Flashcard decks New videos every week</p>
+        <p className='text-slate-300 font-karla pt-2 sm:max-w-[13.76rem] text-[0.99rem] mb-2 sm:mb-0'>Tutorials by industry experts Peer & expert code review Coding exercises Access to our GitHub repos Community forum Flashcard decks New videos every week</p>
       </section>
     </div>
   </main>  
