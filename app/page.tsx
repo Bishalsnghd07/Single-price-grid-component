@@ -5,7 +5,7 @@ export default function Home() {
     <div className='grid bg-white rounded-t-lg sm:w-[38.5rem] shadow-2xl'>
       <article className='pr-9 pl-9 pb-8 pt-9 flex flex-col flex-wrap'>
         <h1 className='  justify-start text-cyan-600 items-start font-semibold text-2xl'>Join our community</h1>
-        <h2 className='text-[#0fde0c] text-em font-semibold text-lg pt-[1rem] leading-7'>30-day hassle-free money back guarantee</h2>
+        <h2 className='text-primary-Bright-Yellow text-em font-semibold text-lg pt-[1rem] leading-7'>30-day hassle-free money back guarantee</h2>
         <p className=' text-neutral-Grayish-Blue pt-3 text-base font-karla sm:max-w-[34.56rem] leading-6 pb-2'>Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills.</p>
       </article>
     </div>
