@@ -6,7 +6,7 @@ export default function Home() {
       <article className='pt-8 pr-8 pl-9 pb-9 flex flex-col flex-wrap'>
         <h1 className='justify-start text-cyan-600 items-start font-semibold text-[1.60rem]'>Join our community</h1>
         <h2 className='text-[#767601] text-em font-semibold text-base leading-7 pt-4'>30-day hassle-free money back guarantee</h2>
-        <p className='text-gray-500 pt-3 text-base font-karla sm:max-w-[34.56rem] leading-6 pb-2'>Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills.</p>
+        <p className='text-gray-500 pt-3 text-base font-karla sm:max-w-[34.56rem] leading-7 pb-1'>Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills.</p>
     </article>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 sm:w-[38.5rem] rounded-b-lg  shadow-2xl">
